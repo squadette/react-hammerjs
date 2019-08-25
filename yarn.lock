@@ -2775,10 +2775,10 @@ rollup-pluginutils@^1.5.0:
     estree-walker "^0.2.1"
     minimatch "^3.0.2"
 
-rollup@^0.50.0:
-  version "0.50.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-0.50.1.tgz#e4dafcbf8d2bb0d9f5589d0cc6f64d76b8815730"
-  integrity sha512-XwrnqjSTk+yR8GbP6hiJuVe83MVmBw/gm4P3qP34A10fRXvv6ppl0ZUg1+Pj1tIZSR/aw5ZaILLEiVxwXIAdAw==
+rollup@~0.51.0:
+  version "0.51.8"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-0.51.8.tgz#58bd0b642885f4770b5f93cc64f14e4233c2236d"
+  integrity sha512-e7FwWxqb4vhdonmwRH06nqC9wR6h1kZojK2D+lN1xjiB8FDtAKgy7o+r8fCXVzQZ1ZCdcVlls3mTq5g6u38Jew==
 
 run-async@^2.2.0:
   version "2.3.0"
