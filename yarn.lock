@@ -87,6 +87,11 @@
     lodash "^4.2.0"
     to-fast-properties "^2.0.0"
 
+"@squadette/hammerjs@~2.1.0":
+  version "2.1.0-pre0"
+  resolved "https://registry.yarnpkg.com/@squadette/hammerjs/-/hammerjs-2.1.0-pre0.tgz#da43a4129d1aae02f951b509fb44238e67f1244e"
+  integrity sha512-4V4G3ve05I2x2wC2v3WPIPKGZJRQhGUok34EnC6yP3eYoZKO/YWtWf3/PeutyR6OzZWGzY2cgfzI55hKOqRdXQ==
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -1663,11 +1668,6 @@ graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.4:
   version "4.2.2"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.2.tgz#6f0952605d0140c1cfdb138ed005775b92d67b02"
   integrity sha512-IItsdsea19BoLC7ELy13q1iJFNmd7ofZH5+X/pJr90/nRoPEX0DJo1dHDbgtYWOhJhcCgMDTOw84RZ72q6lB+Q==
-
-hammerjs@^2.0.8:
-  version "2.0.8"
-  resolved "https://registry.yarnpkg.com/hammerjs/-/hammerjs-2.0.8.tgz#04ef77862cff2bb79d30f7692095930222bf60f1"
-  integrity sha1-BO93hiz/K7edMPdpIJWTAiK/YPE=
 
 has-ansi@^2.0.0:
   version "2.0.0"

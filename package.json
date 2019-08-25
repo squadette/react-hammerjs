@@ -1,6 +1,6 @@
 {
-  "name": "react-hammerjs",
-  "version": "1.0.1",
+  "name": "@squadette/react-hammerjs",
+  "version": "1.1.0.pre1",
   "description": "ReactJS / HammerJS integration. Support touch events in your React app.",
   "main": "lib/Hammer.js",
   "jsnext:main": "dist/react-hammerjs.es.js",
@@ -12,7 +12,7 @@
     "url": "https://github.com/JedWatson/react-hammerjs.git"
   },
   "dependencies": {
-    "hammerjs": "^2.0.8"
+    "@squadette/hammerjs": "~2.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
