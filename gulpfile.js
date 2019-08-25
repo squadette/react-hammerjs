@@ -25,7 +25,7 @@ var PACKAGE_NAME = 'react-hammerjs';
 var COMPONENT_NAME = 'Hammer';
 
 var DEPENDENCIES = [
-	'hammerjs',
+	'@squadette/hammerjs',
 	'prop-types',
 	'react',
 	'react-dom',
