@@ -88,9 +88,9 @@
     to-fast-properties "^2.0.0"
 
 "@squadette/hammerjs@~2.1.0-pre":
-  version "2.1.0-pre0"
-  resolved "https://registry.yarnpkg.com/@squadette/hammerjs/-/hammerjs-2.1.0-pre0.tgz#da43a4129d1aae02f951b509fb44238e67f1244e"
-  integrity sha512-4V4G3ve05I2x2wC2v3WPIPKGZJRQhGUok34EnC6yP3eYoZKO/YWtWf3/PeutyR6OzZWGzY2cgfzI55hKOqRdXQ==
+  version "2.1.0-pre2"
+  resolved "https://registry.yarnpkg.com/@squadette/hammerjs/-/hammerjs-2.1.0-pre2.tgz#5b8a41ee00122ccdeb84553db654a08998c9ff3c"
+  integrity sha512-ChWsN3J6tfaAgQrQkaMkE8O4sMaJRa2w/bvl0IUeDrwIt/ty8tJODcBXzFAAh2Ak/gIVWQ2KU4VXa02gS3fscw==
 
 abbrev@1:
   version "1.1.1"
