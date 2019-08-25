@@ -12,7 +12,7 @@
     "url": "https://github.com/JedWatson/react-hammerjs.git"
   },
   "dependencies": {
-    "@squadette/hammerjs": "~2.1.0"
+    "@squadette/hammerjs": "~2.1.0-pre"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
