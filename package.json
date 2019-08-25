@@ -37,7 +37,7 @@
     "react": "^0.14.9 || ^15.3.0 || ^16.0.0-rc || ^16.0"
   },
   "scripts": {
-    "build": "npm run build:clean && npm run build:lib && npm run build:dist",
+    "build": "yarn run build:clean && yarn run build:lib && yarn run build:dist",
     "build:clean": "rimraf lib dist",
     "build:lib": "babel src -d lib",
     "build:dist": "rollup --config",
